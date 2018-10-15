@@ -1,5 +1,3 @@
-# ComputerVision2018-19
-This is the git repo for Dr W. Bai's computer vision course for DoC students. Academic Year 2018-2019
+# Computer Vision 2018-19
 
-Images contains the images needed for Coursework 1 
-CW1 contains the files for Coursework 1 
+This repository contains the Python courseworks for the Computer Vision course, Academic Year 2018-2019, delivered by [Dr Wenjia Bai](http://wp.doc.ic.ac.uk/wbai/data/). The courseworks were developed jointly by Dr Wenjia Bai and Mr Athanasios Vlontzos.
