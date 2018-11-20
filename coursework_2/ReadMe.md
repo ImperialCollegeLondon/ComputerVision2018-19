@@ -12,7 +12,7 @@ Alternatively, you can use pip, pip3 or anaconda etc to install Python packages.
 
 **Note 1:** please read the both the text and code comment in this notebook to get an idea what you are supposed to implement.
 
-**Note 2:** If you are using the virtual environment in the Computing Lab, please run the following command in the command line before opening jupyter-notebook and importing tensorflow. This will tell tensorflow where the Nvidia CUDA libariries are.
+**Note 2:** If you are using the virtual environment in the Computing Lab, please run the following command in the command line before opening jupyter-notebook and importing tensorflow. This will tell tensorflow where the Nvidia CUDA libaries are.
 
 `export LD_LIBRARY_PATH=/vol/cuda/9.0.176/lib64/:"${LD_LIBRARY_PATH}}"`
 
